@@ -43,6 +43,8 @@
             border: solid 1px #ccc;
             padding: 5px;
             width: 285px;
+            min-width: 285px;
+            max-width: 285px;
         }
     </style>
 
