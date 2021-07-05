@@ -12,7 +12,7 @@
 
 </head>
 
-<body style="   background-color: rgb(146, 49, 102);">
+<body style="   background-color: rgb(161, 44, 97);">
 
     <center><h1>Dejanos un mensaje</h1></center><br>
 
@@ -26,7 +26,7 @@
 
         }
         form{
-            background-color: rgba(15, 23, 65, 0.938);
+            background-color: rgba(18, 46, 68);
             padding: 20px;
             color: #999;
             border-radius: 8px;
